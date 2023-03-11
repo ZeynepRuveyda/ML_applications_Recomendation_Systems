@@ -1,7 +1,6 @@
 # Recomendation_Systems
 Book recomendation
-## Table of Contents
-### Introduction
+
 ### Data Wrangling
 ### Exploratory Data Analysis
 ### Applying ML Algorithms
