@@ -1,8 +1,5 @@
 # Recomendation_Systems
 Book recomendation
-
-
-# Book Crossing Recommendation
 ## Table of Contents
 ### Introduction
 ### Data Wrangling
